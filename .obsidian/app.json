@@ -1,0 +1,9 @@
+{
+  "promptDelete": false,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "propertiesInDocument": "source",
+  "newLinkFormat": "shortest",
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./"
+}
