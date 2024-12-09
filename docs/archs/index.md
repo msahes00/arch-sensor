@@ -5,7 +5,7 @@ For a summary of the instructions per architecture as well as the list of common
 
 | Architecture    | Parsed                    | PDF                                 | URL                                                                                          |
 | --------------- | ------------------------- | ----------------------------------- | -------------------------------------------------------------------------------------------- |
-| 6502            | [View](parsed/w6502.md)   | [View](w6502.pdf)                   | https://eater.net/datasheets/w65c02s.pdf                                                     |
+| 6502            | [View](parsed/w6502.md)   | [View](pdfs/w6502.pdf)                   | https://eater.net/datasheets/w65c02s.pdf                                                     |
 | Moxie           | [View](parsed/moxie.md)   | [View](pdfs/moxie.pdf)              | http://moxielogic.org/blog/pages/architecture.html                                           |
 | AVR             |                           |                                     | https://mysite.du.edu/~etuttle/electron/elect70.htm                                          |
 | AVR             | [View](parsed/avr.md)     | [View](pdfs/avr.pdf)                | https://ww1.microchip.com/downloads/en/DeviceDoc/AVR-Instruction-Set-Manual-DS40002198A.pdf  |
