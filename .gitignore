@@ -1,2 +1,5 @@
 .obsidian/workspace*.json
 .trash/
+
+# Added by cargo
+/target
