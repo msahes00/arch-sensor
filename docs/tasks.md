@@ -22,5 +22,5 @@ WHERE due > date(today) and status = " "
 - [x] Parse all reference PDFs  [due:: 2024-11-05]
 - [x] Find common instructions  [due:: 2024-11-12]
 - [x] Research a hello world and the instructions used by it  [due:: 2024-11-19]
-- [ ] Implement a working prototype  [due:: 2024-12-17]
-- [ ] Obtain conclusions  [due:: 2024-12-17]
+- [x] Implement a working prototype  [due:: 2024-12-17]
+- [x] Obtain conclusions  [due:: 2024-12-17]
